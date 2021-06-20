@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ *main-displays
+ *Description: displays content
+ */
 int main(void)
 {
   /*main- displays*/
