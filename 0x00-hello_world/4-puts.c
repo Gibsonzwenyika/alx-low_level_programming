@@ -2,6 +2,7 @@
 /**
  *main-display
  *Description: displays content
+ *Return: Always zero
  */
 int main(void)
 {
